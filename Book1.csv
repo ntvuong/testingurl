@@ -1,0 +1,12 @@
+FIPS,Admin2,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recovered,Active,Combined_Key,Incident_Rate,Case_Fatality_Ratio
+,,,Afghanistan,11/17/2020 5:25,33.93911,67.709953,43403,1626,35137,6640,Afghanistan,111.4946049,3.746284819
+,,Australian Capital Territory,Australia,11/17/2020 5:25,-35.4735,149.0124,114,3,111,0,"Australian Capital Territory, Australia",26.62929222,2.631578947
+,,New South Wales,Australia,11/17/2020 5:25,-33.8688,151.2093,4502,53,3166,1283,"New South Wales, Australia",55.45700912,1.177254554
+,,Northern Territory,Australia,11/17/2020 5:25,-12.4634,130.8456,46,0,38,8,"Northern Territory, Australia",18.72964169,0
+,,Queensland,Australia,11/17/2020 5:25,-27.4698,153.0251,1186,6,1171,9,"Queensland, Australia",23.18443945,0.505902192
+,,South Australia,Australia,11/17/2020 5:25,-34.9285,138.6007,547,4,506,37,"South Australia, Australia",31.14147452,0.731261426
+,,Tasmania,Australia,11/17/2020 5:25,-42.8821,147.3272,230,13,217,0,"Tasmania, Australia",42.95051354,5.652173913
+,,Victoria,Australia,11/17/2020 5:25,-37.8136,144.9631,20345,819,19523,3,"Victoria, Australia",306.8673736,4.025559105
+1001,Autauga,Alabama,US,11/17/2020 5:25,32.53952745,-86.64408227,2481,36,0,2445,"Autauga, Alabama, US",4440.745315,1.451027811
+1003,Baldwin,Alabama,US,11/17/2020 5:25,30.72774991,-87.72207058,7696,84,0,7612,"Baldwin, Alabama, US",3447.503516,1.091476091
+1005,Barbour,Alabama,US,11/17/2020 5:25,31.868263,-85.3871286,1130,9,0,1121,"Barbour, Alabama, US",4577.493316,0.796460177
